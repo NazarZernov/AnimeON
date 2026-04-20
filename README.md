@@ -1,3 +1,5 @@
+<img width="1001" height="773" alt="Снимок экрана — 2026-04-20 в 12 54 45" src="https://github.com/user-attachments/assets/5f1b5b5f-460c-4e86-a5ab-fbc4c702f93d" />
+
 # AnimeOnNative
 
 Нативный мультиплатформенный MVP на SwiftUI для iPhone, iPad и macOS, визуально вдохновлённый [animeon.su](https://animeon.su) и построенный без `WebView` как основного UI. !!! Файл AnimeOnNative сжат в зип файле розпакуйте его и переместите так как показанно на структуре проэкта. После откройте в Xcode
