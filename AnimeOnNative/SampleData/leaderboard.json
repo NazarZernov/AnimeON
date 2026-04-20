@@ -1,0 +1,8 @@
+[
+  { "id": 1, "rank": 1, "username": "Кабан", "avatarURL": "https://i.pravatar.cc/200?img=11", "isPremium": true, "watchTimeLabel": "80ч 23м", "tier": "Грандмастер", "score": 703 },
+  { "id": 2, "rank": 2, "username": "Tensei", "avatarURL": "https://i.pravatar.cc/200?img=12", "isPremium": true, "watchTimeLabel": "80ч 06м", "tier": "Мастер", "score": 686 },
+  { "id": 3, "rank": 3, "username": "Kuroi", "avatarURL": "https://i.pravatar.cc/200?img=13", "isPremium": true, "watchTimeLabel": "70ч 24м", "tier": "Адепт", "score": 624 },
+  { "id": 4, "rank": 4, "username": "FuRy007", "avatarURL": "https://i.pravatar.cc/200?img=14", "isPremium": true, "watchTimeLabel": "68ч 02м", "tier": "Знаток", "score": 562 },
+  { "id": 5, "rank": 5, "username": "Dobri", "avatarURL": "https://i.pravatar.cc/200?img=15", "isPremium": true, "watchTimeLabel": "67ч 44м", "tier": "Адепт", "score": 544 },
+  { "id": 6, "rank": 6, "username": "Maks", "avatarURL": "https://i.pravatar.cc/200?img=16", "isPremium": false, "watchTimeLabel": "66ч 57м", "tier": "Адепт", "score": 531 }
+]
