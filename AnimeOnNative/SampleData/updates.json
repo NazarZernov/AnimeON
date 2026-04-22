@@ -1,7 +1,0 @@
-[
-  { "id": 1, "animeID": 1003, "animeTitle": "Ван-Пис", "episodeNumber": 1124, "summary": "Добавлена новая серия в плеер и в офлайн-загрузки.", "publishedAt": "2026-04-20T10:10:00Z" },
-  { "id": 2, "animeID": 1001, "animeTitle": "Провожающая в последний путь Фрирен 2", "episodeNumber": 3, "summary": "Эпизод доступен в 4K и поддерживает resume playback.", "publishedAt": "2026-04-20T18:05:00Z" },
-  { "id": 3, "animeID": 1005, "animeTitle": "Пламенная бригада пожарных: Третья глава", "episodeNumber": 3, "summary": "Лента обновлений получила новый онгоинг с автоматическим next episode.", "publishedAt": "2026-04-18T17:05:00Z" },
-  { "id": 4, "animeID": 1006, "animeTitle": "Монолог фармацевта 2", "episodeNumber": 3, "summary": "Серия добавлена вместе с новым описанием и карточкой тайтла.", "publishedAt": "2026-04-19T13:05:00Z" },
-  { "id": 5, "animeID": 1010, "animeTitle": "Re:Zero. Жизнь с нуля в альтернативном мире 4", "episodeNumber": 2, "summary": "Обновлён список серий и сохранение прогресса просмотра.", "publishedAt": "2026-04-15T20:05:00Z" }
-]
